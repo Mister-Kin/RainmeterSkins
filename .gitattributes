@@ -2,3 +2,4 @@
 年份数字倒影模板_16_90（Krita[[:space:]]4.x）.kra filter=lfs diff=lfs merge=lfs -text
 年份数字倒影模板_22_130（Krita[[:space:]]4.x）.kra filter=lfs diff=lfs merge=lfs -text
 年份数字倒影模板_22_130.kra filter=lfs diff=lfs merge=lfs -text
+*.ini text diff working-tree-encoding=UTF-16LE-BOM eol=CRLF
