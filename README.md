@@ -3,10 +3,11 @@ Language: EN [CN][ReadmeCN]
 [ReadmeCN]: ./README_CN.md
 
 # Rainmeter Skins
-[![Rainmeter Version][]](https://www.rainmeter.net/) [![Platform][]]() [![License][]](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)
+[![Rainmeter Version][]](https://www.rainmeter.net/) [![Platform][]]() [![Downloads][]](https://github.com/Mister-Kin/RainmeterSkins/releases/latest) [![License][]](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)
 
 [Rainmeter Version]: https://img.shields.io/badge/rainmeter-v4.5.17+-blue
 [Platform]: https://img.shields.io/badge/platform-Windows%2010%20(1709%20or%20later)-blue
+[Downloads]: https://img.shields.io/github/downloads/Mister-Kin/RainmeterSkins/total?color=blue
 [License]: https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-blue
 
 ## Introduction
@@ -19,6 +20,10 @@ My personal modified and customized rainmeter skins based on some skins. [Rainme
 - **Text Launcher**: The ultimate easy launcher, no graphic elements, only the program application name is displayed, click on the name to launch the program
 - **System Information**: Display basic system information, such as uptime, CPU usage, memory usage, internet speed monitoring, etc.
 - **Rainmeter Preset System Information**: Default skin included in the rainmeter software, displaying basic system information, adding support for monitoring network speed after modification and customization
+
+![reflection_clock](images/reflection_clock.png) ![text_launcher](images/text_launcher.png)
+
+![system_info](images/system_info.png) ![system_info_preset](images/system_info_preset.png)
 
 ## Download
 [Jump to Download Page][]

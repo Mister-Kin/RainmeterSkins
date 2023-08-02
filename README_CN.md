@@ -3,10 +3,11 @@
 [Readme]: ./README.md
 
 # 雨滴皮肤
-[![Rainmeter Version][]](https://www.rainmeter.net/) [![Platform][]]() [![License][]](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)
+[![Rainmeter Version][]](https://www.rainmeter.net/) [![Platform][]]() [![Downloads][]](https://github.com/Mister-Kin/RainmeterSkins/releases/latest) [![License][]](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)
 
 [Rainmeter Version]: https://img.shields.io/badge/rainmeter-v4.5.17+-blue
 [Platform]: https://img.shields.io/badge/platform-Windows%2010%20(1709%20or%20later)-blue
+[Downloads]: https://img.shields.io/github/downloads/Mister-Kin/RainmeterSkins/total?color=blue
 [License]: https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-blue
 
 ## 简介
@@ -18,7 +19,11 @@
 - **倒影时钟**：显示基本时钟、年月日等信息
 - **文字启动器**：极致简便的启动器，没有图形元素，只显示程序应用名称，点击名称即可启动程序
 - **系统信息**：显示基本系统信息，如开机时间、CPU内存占用、网速监测等
-- **雨滴预设系统信息**：雨滴软件自带的预设皮肤，显示基本的系统信息，修改订制后增加支持监测网速
+- **雨滴预设系统信息**：雨滴软件自带的预设皮肤，显示基本的系统信息，修改及订制后增加支持监测网速
+
+![reflection_clock](images/reflection_clock.png) ![text_launcher](images/text_launcher.png)
+
+![system_info](images/system_info.png) ![system_info_preset](images/system_info_preset.png)
 
 ## 下载
 [跳转到下载页面][]
