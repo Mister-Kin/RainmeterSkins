@@ -36,7 +36,7 @@
 [离线文档 - PDF][]（访问密码：docs）
 
 [跳转到文档页面]: https://mister-kin.github.io/works/software-works/rainmeter-skins/
-[离线文档 - PDF]: https://wwr.lanzoui.com/b02c7lamf
+[离线文档 - PDF]: https://wwr.lanzoui.com/b02c7lamf#docs
 
 ## 作者
 **雨滴皮肤** © Mr. Kin，所有文件均采用 [CC BY-NC-SA 3.0][] 许可协议进行发布。

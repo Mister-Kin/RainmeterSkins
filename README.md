@@ -36,7 +36,7 @@ My personal modified and customized rainmeter skins based on some skins. [Rainme
 [Offline Documentation - PDF][] (Access Code: docs)
 
 [Jump to Documentation Page]: https://mister-kin.github.io/works/software-works/rainmeter-skins/
-[Offline Documentation - PDF]: https://wwr.lanzoui.com/b02c7lamf
+[Offline Documentation - PDF]: https://wwr.lanzoui.com/b02c7lamf#docs
 
 ## Author
 **RainmeterSkins** © Mr. Kin, all files released under the [CC BY-NC-SA 3.0][] license.
